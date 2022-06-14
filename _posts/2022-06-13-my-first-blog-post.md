@@ -8,7 +8,7 @@ Datorama’s best-in-breed combination of end-to-end data management, data visua
 
 To learn more about Datorama, please visit: [datorama.com](https://datorama.com/)
 
- ### Connect 100% of your marketing data. 
+ ### Connect 100% of your marketing data. ###
 
  Automatically connect, unify, and maintain your marketing data to create a foundation for true data transparency. Connect + Unify The right data. The right information. Right away. Input. Model. Adapt. Scale Datorama’s Integration Engine is built specifically for marketers and media professionals and serves as the cornerstone of your cross-channel marketing intelligence. Our data integration, data modeling, and semantic layer combine the deepest in-the-box marketing expertise, AI machine learning, and easy extensibility to strike the perfect balance between automation and customization. Connecting and unifying all of your platforms, tools, and reports in one place becomes simple with smart assistive technology. 
  
