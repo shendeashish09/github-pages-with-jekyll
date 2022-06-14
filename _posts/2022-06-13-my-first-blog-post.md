@@ -1,5 +1,7 @@
 ---
-title: "Datorama"
+title: "Salesforce Datorama"
 date: 2022-06-13
 ---
-Datorama is a cloud-based Business Intelligence Tool from Salesforce. It's considered a marketing intelligence platform, and it gives marketers a friendly way to access media data specifically.
+Salesforce Datorama is a tool where you can integrate all your data from marketing and advertising platforms, web analytics, CRM, e-commerce, and more. You can then use this unified view of your data to optimize campaign performance and discover and act on insights in real time.
+
+
