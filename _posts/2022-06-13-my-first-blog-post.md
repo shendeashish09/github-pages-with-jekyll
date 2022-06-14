@@ -2,9 +2,9 @@
 title: "Salesforce Datorama"
 date: 2022-06-13
 ---
-==================== Salesforce Datorama ==================== 
 Datorama is a global technology company providing the leading Marketing Intelligence solution for data-driven enterprises, agencies, publishers, and platforms. Datorama’s artificial intelligence- (AI) powered, Software-as-a-Service (SaaS) platform gives marketers the ability to centralize all of their data into one single source of truth. This automates reporting across channels and campaigns, and provides marketers with a seamless, always-on optimization capability across every performance, impact, and customer loyalty key performance indicator (KPI). Datorama’s best-in-breed combination of end-to-end data management, data visualization, automated insights, and activations empower marketers to become an engine of growth for their respective business. Datorama powers Marketing Intelligence for thousands of cutting-edge marketing organizations, including: IBM, L’Oreal, Ticketmaster, PepsiCo, Pernod Ricard, Foursquare, Publicis Media and others. 
-Datorama was recently named to the 2017 Deloitte Technology Fast 500 as the 35th fastest growing company in North America, and was identified as a 2016 Gartner Cool Vendor in Data-driven Marketing. To learn more about Datorama, please visit: https://datorama.com/.
+
+To learn more about Datorama, please visit: https://datorama.com/.
 
 Datorama’s marketing intelligence platform transforms the way marketers optimize their marketing performance, business impact, and customer loyalty. With Datorama, customers can: 
   • Automatically connect all their disparate marketing tools and reports in one centralized place 
