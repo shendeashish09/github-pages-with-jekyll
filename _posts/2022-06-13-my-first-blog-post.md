@@ -3,7 +3,9 @@ title: "Salesforce Datorama"
 date: 2022-06-13
 ---
 
-![Salesforce-datorama Image](assets/Salesforce-datorama.png)
+![Salesforce-datorama Image](github-pages-with-jekyll/assets/Salesforce-datorama.png)
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ... you can [get the PDF](/assets/mydoc.pdf) directly.
 
