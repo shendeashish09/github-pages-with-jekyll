@@ -61,7 +61,7 @@ Datorama empowers your marketing team to get things done.
 Datorama has multiple options for getting data into its platform.  
 Over 300 prebuilt API connectors are available for ad tech vendors, cloud data warehouses, and tracking platforms.
 
-### No API? The TotalConnect connector is versatile and allows:
+#### No API? The TotalConnect connector is versatile and allows:
 
 - Direct file upload
 - SFTP
