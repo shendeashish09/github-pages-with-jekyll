@@ -68,9 +68,16 @@ Over 300 prebuilt API connectors are available for ad tech vendors, cloud data w
 ## The Datorama Data Model
 A data model is a predefined structure that’s used to organize data in a database and define the relationships between its elements. In this module, we explain the relationship between different data types and the Datorama data model, describe what data streams are, and go through the benefits of using the Datorama data model. But before we look at the specific Datorama data model, it’s important to understand a few basic principles about data in general. 
 
-To learn more complete the Datorama Data Model: [The Datorama Data Model](https://trailhead.salesforce.com/en/content/learn/modules/datorama-data-model?trail_id=get-started-with-datorama)
+To learn more, Complete the Datorama Data Model: [The Datorama Data Model](https://trailhead.salesforce.com/en/content/learn/modules/datorama-data-model?trail_id=get-started-with-datorama)
 
+## Data Uploading In Datorama
+To be able to upload your data into Datorama, it’s important to know the different processes, so you can choose the best method.
 
+Let’s take a look at your options.
+### Use API Connectors
+If you’re looking for an easy way to connect to an external source platform with an API—such as Google Ads or Facebook—API connectors are a good option. Datorama offers over 100 different API connectors. All you have to do is enter your credentials and authenticate your account and Datorama does the rest. 
+
+To learn more, Complete Data Uploading Model: [Data Uploading In Datorama](https://trailhead.salesforce.com/en/content/learn/modules/data-uploading-in-datorama-1?trail_id=get-started-with-datorama)
 
 
 
