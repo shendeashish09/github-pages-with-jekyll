@@ -21,6 +21,16 @@ Might you have an include in your theme? Why not try it here!
 
 What are the capabilities of Datorama?
 
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
 
 Datorama allows you to combine your disparate marketing sources into one data model and visualize it in branded dashboards.
 These capabilities are essential for any digital marketing program with data coming in from different sources and with different metrics, 
