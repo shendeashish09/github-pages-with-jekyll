@@ -3,11 +3,11 @@ title: "Salesforce Datorama"
 date: 2022-06-13
 ---
 
-![Salesforce-datorama Image](github-pages-with-jekyll/assets/Salesforce-datorama.png)
+<!--<!--  ![Salesforce-datorama Image](github-pages-with-jekyll/assets/Salesforce-datorama.png) -->
 
 <img  alt="Salesforce-datorama Image" src="/assets/Salesforce-datorama.png" />
-align="centre" height="250" width="375"
-... you can [get the PDF](/assets/mydoc.pdf) directly.
+<!-- align="centre" height="250" width="375" -->
+<!-- ... you can [get the PDF](/assets/mydoc.pdf) directly. -->
 
 Datorama is a global technology company providing the leading Marketing Intelligence solution for data-driven enterprises, agencies, publishers, and platforms. Datorama’s artificial intelligence- (AI) powered, Software-as-a-Service (SaaS) platform gives marketers the ability to centralize all of their data into one single source of truth. This automates reporting across channels and campaigns, and provides marketers with a seamless, always-on optimization capability across every performance, impact, and customer loyalty key performance indicator (KPI). 
 
