@@ -3,7 +3,7 @@ title: "Salesforce Datorama"
 date: 2022-06-13
 ---
 
-![My helpful screenshot](/assets/screenshot.jpg)
+![Salesforce-datorama Image](assets/Salesforce-datorama.png)
 
 ... you can [get the PDF](/assets/mydoc.pdf) directly.
 
