@@ -5,7 +5,7 @@ date: 2022-06-13
 
 <!--<!--  ![Salesforce-datorama Image](github-pages-with-jekyll/assets/Salesforce-datorama.png) -->
 
-<img  alt="Salesforce-datorama Image" src="/assets/Salesforce-datorama.png" />
+<img  alt="Salesforce-datorama Image" src="/assets/Salesforce-datorama.jpg" />
 <!-- align="centre" height="250" width="375" -->
 <!-- ... you can [get the PDF](/assets/mydoc.pdf) directly. -->
 
