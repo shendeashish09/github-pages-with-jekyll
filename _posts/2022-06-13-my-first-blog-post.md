@@ -15,7 +15,7 @@ Datorama’s best-in-breed combination of end-to-end data management, data visua
 
 To learn more about Datorama, please visit: [datorama.com](https://datorama.com/)
 
-#### What are the capabilities of Datorama?
+### What are the capabilities of Datorama?
 
 Datorama allows you to combine your disparate marketing sources into one data model and visualize it in branded dashboards.
 These capabilities are essential for any digital marketing program with data coming in from different sources and with different metrics, 
@@ -29,7 +29,7 @@ Datorama’s dashboard branding features allow you to match a whole dashboard to
 Simply upload your logo or company colors, and all of your charts, widgets, and dashboards will change color to match.
 
 
-#### What are the benefits of using Datorama?
+### What are the benefits of using Datorama?
 
 Datorama is focused entirely on Marketing. 
 With over 300 marketing connections in place, Datorama’s integration engine can connect quickly to your marketing sources, 
@@ -55,23 +55,19 @@ Datorama can provide a development workspace to test out your updates before pus
 With all of these tools at your disposal, 
 Datorama empowers your marketing team to get things done.
 
-#### What are my options for connecting data in Datorama?
+### What are my options for connecting data in Datorama?
 
 Datorama has multiple options for getting data into its platform.  
 Over 300 prebuilt API connectors are available for ad tech vendors, cloud data warehouses, and tracking platforms.
 
-No API?  The TotalConnect connector is versatile and allows:
-Direct file upload
-SFTP
-Pull a file from an email, or email a file for direct upload
-Connect to a custom query service such as Big Query.
-An array of developer-specific tools:
-Create custom API connections – build a custom connector for your data source
-Create custom Apps – build new packaged solutions on top of Datorama
-Utilize the Platform API tool – manage your implementation with automatic actions, bulk updates, and custom workflows.
-Utilize the Query API tool – export data from Datorama to your own database, 3rd party data visualization platforms, or your analytics tools.
-Differentiating features of Datorama
-Marketing Data Mapping Visualizer in Datorama
+### No API? The TotalConnect connector is versatile and allows:
+
+- Direct file upload
+- SFTP
+- Pull a file from an email, or email a file for direct upload.
+- Connect to a custom query service such as Big Query.
+- 
+
 
 
 
