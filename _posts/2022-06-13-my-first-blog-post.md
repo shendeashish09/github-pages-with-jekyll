@@ -68,4 +68,4 @@ Over 300 prebuilt API connectors are available for ad tech vendors, cloud data w
 
 
 
-
+To learn more about Datorama, please visit Documentation Page: [Datorama docmentation](https://help.salesforce.com/s/articleView?id=sf.datorama.htm&type=5) 
