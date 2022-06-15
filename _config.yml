@@ -13,3 +13,8 @@ github_username:  shendeashish09
 linkedin_username: shendeashish09
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
