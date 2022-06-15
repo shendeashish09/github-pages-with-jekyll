@@ -65,7 +65,10 @@ Over 300 prebuilt API connectors are available for ad tech vendors, cloud data w
 - Pull a file from an email, or email a file for direct upload.
 - Connect to a custom query service such as Big Query.
 
+## The Datorama Data Model
+A data model is a predefined structure that’s used to organize data in a database and define the relationships between its elements. In this module, we explain the relationship between different data types and the Datorama data model, describe what data streams are, and go through the benefits of using the Datorama data model. But before we look at the specific Datorama data model, it’s important to understand a few basic principles about data in general. 
+To learn more complete the Datorama Data Model: [The Datorama Data Model] (https://trailhead.salesforce.com/en/content/learn/modules/datorama-data-model?trail_id=get-started-with-datorama)
 
 
 
-To learn more about Datorama, please visit Documentation Page: [Datorama docmentation](https://help.salesforce.com/s/articleView?id=sf.datorama.htm&type=5) 
+To learn more about Datorama, Please visit Documentation Page: [Datorama Docmentation](https://help.salesforce.com/s/articleView?id=sf.datorama.htm&type=5) 
