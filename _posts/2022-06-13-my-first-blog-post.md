@@ -14,9 +14,13 @@ Datorama’s best-in-breed combination of end-to-end data management, data visua
 To learn more about Datorama, please visit: [datorama.com](https://datorama.com/)
 
 
----------------------------------------
+{% comment %}
+Might you have an include in your theme? Why not try it here!
+{% include my-themes-great-include.html %}
+{% endcomment %}
+
 What are the capabilities of Datorama?
----------------------------------------
+
 
 Datorama allows you to combine your disparate marketing sources into one data model and visualize it in branded dashboards.
 These capabilities are essential for any digital marketing program with data coming in from different sources and with different metrics, 
