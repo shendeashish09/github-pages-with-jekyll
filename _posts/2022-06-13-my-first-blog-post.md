@@ -4,6 +4,7 @@ date: 2022-06-13
 ---
 
 <!--<!--  ![Salesforce-datorama Image](github-pages-with-jekyll/assets/Salesforce-datorama.png) -->
+[header-image-post]: https://mmistakes.github.io/minimal-mistakes/layout-header-image-text-readability/
 
 <img  alt="Salesforce-datorama Image" src="/assets/Salesforce-datorama.jpg" />
 <!-- align="centre" height="250" width="375" -->
@@ -66,7 +67,7 @@ Over 300 prebuilt API connectors are available for ad tech vendors, cloud data w
 - SFTP
 - Pull a file from an email, or email a file for direct upload.
 - Connect to a custom query service such as Big Query.
-- 
+
 
 
 
