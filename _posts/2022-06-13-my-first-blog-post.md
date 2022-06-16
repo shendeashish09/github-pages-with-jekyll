@@ -94,27 +94,25 @@ When you use LiteConnect, Datorama automatically generates dashboards so you can
 
 To learn more, Complete Data Uploading Model: [Data Uploading In Datorama](https://trailhead.salesforce.com/en/content/learn/modules/data-uploading-in-datorama-1?trail_id=get-started-with-datorama)
 
-### Some great subheading (h3)
+## Data Analysis in Datorama
+Use pivot tables and reports to view and validate data uploaded into Datorama.
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Pivot tables are an effective and dynamic tool used to analyze your data. They arrange and display data in order to make it more useful. With pivot tables, you can find figures and insights quickly by having your data grouped together in a meaningful way. This makes pivot tables integral to data analysis. Datorama pivot tables are very similar to pivot tables you may have used in other programs. So if you’re familiar with pivot tables, using them in Datorama should be a breeze.
 
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
+To learn more, Complete Data Analysis in Datorama: [Data Analysis in Datorama](https://trailhead.salesforce.com/en/content/learn/modules/data-analysis-in-datorama?trail_id=get-started-with-datorama)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+## Data Harmonization in Datorama
 
-### Some great subheading (h3)
+We use data harmonization to describe bringing together data from multiple sources to function in unison as if they were a single data source. Although there are various ways to harmonize data, there’s one characteristic that can tell you whether data has been harmonized successfully. When visualizing multiple source data, if it’s perfectly aligned from all sources at the level of a shared value, it’s considered harmonized at that level.
 
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
+To learn more, Complete Data Harmonization in Datorama: [Data Harmonization in Datorama](https://trailhead.salesforce.com/en/content/learn/modules/data-harmonization-in-datorama?trail_id=get-started-with-datorama)
 
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
+## Datorama Marketplace
 
+The Datorama Marketplace is a collection of tools and products that you can download and customize to enhance your marketing intelligence solutions. 
+
+Datorama’s Marketplace contains three different types of products: Apps, Connectors, and Add-On Features.
+
+To learn more, Complete Datorama Marketplace: [Datorama Marketplace](https://trailhead.salesforce.com/en/content/learn/modules/datorama-marketplace?trail_id=get-started-with-datorama)
 
 To learn more about Datorama, Please visit Documentation Page: [Datorama Docmentation](https://help.salesforce.com/s/articleView?id=sf.datorama.htm&type=5) 
