@@ -74,8 +74,23 @@ To learn more, Complete the Datorama Data Model: [The Datorama Data Model](https
 To be able to upload your data into Datorama, it’s important to know the different processes, so you can choose the best method.
 
 Let’s take a look at your options.
-### Use API Connectors
+### -  &nbsp; Use API Connectors
 If you’re looking for an easy way to connect to an external source platform with an API—such as Google Ads or Facebook—API connectors are a good option. Datorama offers over 100 different API connectors. All you have to do is enter your credentials and authenticate your account and Datorama does the rest. 
+
+### -  &nbsp; Use TotalConnect
+TotalConnect is used for customized data upload, especially when there isn’t an API that can be used to get certain data into Datorama. The process of creating a TotalConnect data stream starts with uploading a sample file of the data. This way, Datorama can identify the appropriate data stream type according to the data model. Then, the platform is able to map the source fields to the corresponding Datorama fields. 
+
+Data can be ingested in a TotalConnect data stream either manually or automatically. To automate data feeds, the TotalConnect data stream can receive scheduled email reports or SFTP uploads. TotalConnect can also retrieve data from a technical vendor. You can configure your import to retrieve data at any specific frequency using a variety of methods, including external databases, HTTP requests, Google BigQuery, Python, and AWS-S3 to name a few. 
+
+### -  &nbsp; Use LiteConnect
+LiteConnect allows you to upload files into Datorama without having to map your data or consider the predefined structure of the data model. In a matter of clicks, a file is uploaded in its original format and what you see is what you get. 
+
+When you use LiteConnect, Datorama automatically generates dashboards so you can see your data visualized, reducing time to consumption and analysis. Here are the main differences between LiteConnect and the other upload methods.
+
+-  &nbsp; You don’t need to map your data.
+-  &nbsp; New data isn’t integrated with the rest of your marketing data, because LiteConnect doesn’t use the data model.
+-  &nbsp; Data uploaded with LiteConnect usually acts as standalone data—like weather information or product reviews—that’s evaluated separately from your marketing data. 
+
 
 To learn more, Complete Data Uploading Model: [Data Uploading In Datorama](https://trailhead.salesforce.com/en/content/learn/modules/data-uploading-in-datorama-1?trail_id=get-started-with-datorama)
 
