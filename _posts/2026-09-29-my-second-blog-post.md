@@ -6,9 +6,9 @@
 
 ### ⚡ Core Stack & Tooling
 
-*   **Languages:** `Rust` • `Go` • `TypeScript` • `Zig`
-*   **Infrastructure:** Kubernetes, AWS CloudFormation, Nomad, Vector
-*   **Data Layouts:** Parquet, Protocol Buffers, RocksDB
+*   **Languages:** `Python` • `C` • `TSQL` • `Pyspark`
+*   **Infrastructure:** ADF, SQL Server, DBT, PowerBI
+*   **Data Layouts:** JSON, Parquet
 
 ---
 
@@ -25,8 +25,8 @@
 
 | Platform | Handle / Address | Response Latency |
 | :--- | :--- | :--- |
-| **GitHub** | [@alexmercer](https://github.com) | Quickest via Issue queues |
-| **LinkedIn** | [/in/alexmercer](https://linkedin.com) | Professional inquiries only |
+| **GitHub** | [@shendeashish09](https://github.com) | Quickest via Issue queues |
+| **LinkedIn** | [/in/shendeashish09](https://linkedin.com) | Professional inquiries only |
 | **Email** | `shende.ashish03@gmail.com` | 2-3 Business Days |
 
 
