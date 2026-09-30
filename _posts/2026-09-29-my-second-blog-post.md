@@ -26,7 +26,7 @@
 | Platform | Handle / Address | Response Latency |
 | :--- | :--- | :--- |
 | **GitHub** | [@shendeashish09](https://github.com) | Quickest via Issue queues |
-| **LinkedIn** | [/in/shendeashish09](https://linkedin.com) | Professional inquiries only |
+| **LinkedIn** | [/in/shendeashish09/](https://linkedin.com) | Professional inquiries only |
 | **Email** | `shende.ashish03@gmail.com` | 2-3 Business Days |
 
 
