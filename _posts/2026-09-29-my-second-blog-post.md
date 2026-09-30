@@ -4,7 +4,7 @@ title: "About Me"
 date: 2026-09-21
 ---
 
-
+![Alt Text](https://github.com/shendeashish09/github-pages-with-jekyll/blob/805909c07ad7fd33aef4d843d9818ab9a4cf6f38/assets/Tech_stack.png)
 
 
 # ✨ Ashish Shende
