@@ -1,3 +1,9 @@
+
+---
+title: "Ashish Shende"
+date: 2026-09-21
+---
+
 # ✨ Ashish Shende
 **Senior Software Engineer**  
 *Specializing in distributed databases, ETL, and data warehouse tools.*
