@@ -1,11 +1,10 @@
 
-https://github.com/shendeashish09/github-pages-with-jekyll/blob/805909c07ad7fd33aef4d843d9818ab9a4cf6f38/assets/Tech_stack.png
+
 
 <!-- Image in a subfolder named 'assets' -->
 ![Local Screenshot](./assets/Tech_stack.png)
 
-[![Alt Text]([https://example.com](https://github.com/shendeashish09/github-pages-with-jekyll/blob/805909c07ad7fd33aef4d843d9818ab9a4cf6f38/assets/Tech_stack.png))]([https://target-website.com](https://github.com/shendeashish09/github-pages-with-jekyll/blob/805909c07ad7fd33aef4d843d9818ab9a4cf6f38/assets/Tech_stack.png))
-
+![Alt Text]([https://example.com](https://github.com/shendeashish09/github-pages-with-jekyll/blob/805909c07ad7fd33aef4d843d9818ab9a4cf6f38/assets/Tech_stack.png)
 
 <!-- Start of picture text -->
 WP P Media<br><!-- End of picture text -->
