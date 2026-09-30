@@ -1,7 +1,7 @@
 
 ---
-title: "About Me"
-date: 2026-09-21
+#title: "About Me"
+#date: 2026-09-21
 ---
 
 ![Alt Text](https://github.com/shendeashish09/github-pages-with-jekyll/blob/3b6575543ca4439d3d82476f0cbbc95c90b95ec6/assets/pic2.JPG)
