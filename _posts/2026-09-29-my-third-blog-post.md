@@ -1,5 +1,11 @@
 
 
+
+<!-- Image in a subfolder named 'assets' -->
+![Local Screenshot](./assets/Tech_stack.png)
+
+
+
 <!-- Start of picture text -->
 WP P Media<br><!-- End of picture text -->
 
