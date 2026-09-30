@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/shendeashish09/github-pages-with-jekyll/blob/3b6575543ca4439d3d82476f0cbbc95c90b95ec6/assets/pic2.JPG" alt="Alt text" width="<100>" height="<100>">
+<img src="https://github.com/shendeashish09/github-pages-with-jekyll/blob/3b6575543ca4439d3d82476f0cbbc95c90b95ec6/assets/pic2.JPG" alt="Alt text" width="<60>" height="<60>">
 
 ---
 # ✨ Ashish Shende
